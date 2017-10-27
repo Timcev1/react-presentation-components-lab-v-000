@@ -1,7 +1,7 @@
 // Code SimpleComponentHere Here
 import React, { Component } from 'react';
 
-class DumbComponent extends Component {
+class SimpleComponent extends Component {
   constructor(props) {
     super(props);
 
@@ -20,4 +20,4 @@ class DumbComponent extends Component {
   }
 }
 
-export default DumbComponent;
+export default SimpleComponent;
